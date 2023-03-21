@@ -38,7 +38,7 @@ Yaqinda Zalando elektron tijorat kompaniyasi tadqiqotchilari ```Fashion MNIST```
         
 * Virtual environment ichiga loyiha ishlashi uchun kerakli bo'lgan modullarni o'rnating (requirements.txt faylining ichida barchasi mavjud).
         
-        (sizning_env) C:\Fashion-MNIST> pip install -r requirements.txt
+        (sizning_env) C:\CIFAR-10> pip install -r requirements.txt
 
 
 #### 4. Proyektni ishlatish uchun jupyter notebook ni ishga tushiring.
