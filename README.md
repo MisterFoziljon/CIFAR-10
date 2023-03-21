@@ -1,7 +1,7 @@
 ## CIFAR-10 dataseti yordamida obyektlarni qaysi turkumga tegishli ekanligini bashorat qilish
 
 #### 1. ```CIFAR-10``` dataseti haqida qisqacha ma'lumot
-Yaqinda Zalando elektron tijorat kompaniyasi tadqiqotchilari ```Fashion MNIST```ni asl ```MNIST``` ma'lumotlar to'plamining o'rnini bosuvchi vosita sifatida taqdim etdilar. ```MNIST``` singari, ```Fashion MNIST``` ham 10 xil sinfga tegishli 60 000 ta o'quv tasvir(```train data```) va 10 000 ta sinov tasvir(```test data```)dan iborat to'plamidan iborat. Har bir o'quv misoli 28x28 o'lchamdagi kulrang kanalli rasmdir. Biz birinchi navbatda Fashion MNIST va MNIST o'rtasidagi farqlarni, shu jumladan har bir ma'lumot to'plamidagi modelning ishlashini ko'rib chiqamiz.
+```CIFAR-10``` (Kanada Ilg'or Tadqiqotlar Instituti) ma'lumotlar to'plami odatda Machine Learning va Computer Vision algoritmlarini o'rgatish uchun ishlatiladigan va  tadqiqotlar uchun eng koʻp foydalaniladigan maʼlumotlar toʻplamidir. ```CIFAR-10``` ma'lumotlar to'plami 10 ta turli sinflardan iborat bo'lib, 60 000 ta 32x32 rangli tasvirlarni o'z ichiga oladi. 10 ta sinf: ```samolyot```, ```avtomobil```, ```qush```, ```mushuk```, ```kiyik```, ```it```, ```qurbaqa```, ```ot```, ```kema``` va ```yuk mashina```larini ifodalaydi. Har bir sinfning 6000 ta tasviri mavjud.
 
 ![cmd](https://github.com/MisterFoziljon/CIFAR-10/blob/main/rasmlar/cifar10.jpg)
 
