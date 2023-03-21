@@ -54,7 +54,7 @@
 
 #### 4. Proyektni streamlit yordamida deploy qilish.
 
-        (sizning_env) C:\CIFAR-10> streamlit run streamlit.py
+        (sizning_env) C:\CIFAR-10> streamlit run CIFAR-10.py
 
   * Proyekt ```local server```da ishga tushadi va quyidagicha ko'rinishda bo'ladi:
 
